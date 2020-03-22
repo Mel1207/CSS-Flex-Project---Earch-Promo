@@ -44,6 +44,9 @@
   .container1 .row2 .centerBox {
     width: 100%;
   }
+  .container1 .row2 .centerBox h4 {
+    font-size: 30px;
+  }
   .container1 .row3 {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;

@@ -42,12 +42,13 @@ body {
 
 .container1 .row2 {
   margin: 0;
-  height: 15vh;
+  height: auto;
   width: 100%;
 }
 
 .container1 .row2 .centerBox {
   margin: 0 auto;
+  height: 100%;
   width: 20vh;
   background: #8feea4;
   text-align: center;
@@ -58,7 +59,7 @@ body {
 
 .container1 .row2 .centerBox h4 {
   font-size: 40px;
-  padding: 19px 0;
+  padding: 10px;
 }
 
 .container1 .row3 {
